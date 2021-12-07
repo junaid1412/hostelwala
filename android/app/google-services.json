@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "893063279650",
+    "project_id": "hostelwala-bdfa1",
+    "storage_bucket": "hostelwala-bdfa1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893063279650:android:c7b8bb245eefc994cb067b",
+        "android_client_info": {
+          "package_name": "com.mjshaikh.hostelwala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893063279650-c0q6bgmmcujh87liin7949e0qql1veru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs9aZkNxtdxWxBtTZACMnbXVvJM3JP30g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893063279650-c0q6bgmmcujh87liin7949e0qql1veru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

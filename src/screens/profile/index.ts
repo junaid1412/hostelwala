@@ -1,0 +1,5 @@
+export { ChangePassword } from "./ChangePassword"
+export { ProfileEdit } from "./ProfileEdit"
+export { ProfileView } from "./ProfileView"
+export { UpdateQulification } from "./UpdateQulification"
+export { ViewDetails } from "./ViewDetails"
